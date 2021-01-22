@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Hydro Discharge Calculator</string>
+    <string name="title">Universal HydroPowerPlant Discharge Calculator</string>
+    <string name="str_1">Rated Load(KW)</string>
+    <string name="str_2">Rated Net Head (Mtr)</string>
+    <string name="str_3">Rated Discharge(Cusec)</string>
+    <string name="str_4">Fore bay/Intake Loss(%)</string>
+    <string name="str_5">Head Race Level (Mtr)</string>
+    <string name="str_6">Tail Race Level (Mtr)</string>
+    <string name="str_7"> Running Load (KW)</string>
+    <string name="calc"> Calculate </string>
+    <string name="calc1"> Running Discharge (Cus)</string>
+    <string name="info_1">Other Important Information</string>
+    <string name="calc2">Gross Head (Mtr)</string>
+    <string name="calc3"> Net-Head (Mtr)</string>
+    <string name="calc4">Overall Efficiency (%)</string>
+    <string name="info_2">** Hydro Discharge Calculator-Ver.1.0   Calculates  water discharge of Hydro Power Plants  up to an accuracy up to 10% where no Discharge measuring Equipment is available. ** </string>
+    <string name="info_3"> Powered By : Surinder Bains SE PSPCL,  Mail surinderbns@gmail.com, Mob 9041519091</string>
+    <string name="ad_area">Ad Area</string>
+    <string name="ip_1">15000</string>
+    <string name="ip_2">17.1</string>
+    <string name="ip_3">3600</string>
+    <string name="ip_4">5</string>
+    <string name="ip_5">344</string>
+    <string name="ip_6">326</string>
+    <string name="ip_7">15000</string>
+    <string name="ip">15000</string>
+
+</resources>

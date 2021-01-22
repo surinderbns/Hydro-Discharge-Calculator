@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726430788522",
+    "project_id": "hydro-discharge-calculator",
+    "storage_bucket": "hydro-discharge-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726430788522:android:6cdfae75378f0ff23dd9d3",
+        "android_client_info": {
+          "package_name": "com.jaigurudev.hydrodischargecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726430788522-gnn5vn7lh0i9gg9s0p3h99p67t36hbdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaigurudev.hydrodischargecalculator",
+            "certificate_hash": "cfc9fea1cec4c9e8972d2f2561de2c8db25c7759"
+          }
+        },
+        {
+          "client_id": "726430788522-n1cmgj4ed59hu5errkprkern7q5aip6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUk2xLkKHUW002qwNMm9_7e4uqsy7mpf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726430788522-n1cmgj4ed59hu5errkprkern7q5aip6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

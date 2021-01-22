@@ -1,0 +1,38 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="style11">
+        <item name="android:layout_width">160dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">left</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:background">#8FE67C9E</item>
+
+    </style>
+
+    <style name="style2">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">@drawable/light_red</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">4dp</item>
+    </style>
+
+    <style name="style3">
+        <item name="android:layout_width">130dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:background">@drawable/red_border</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+
+</resources>
